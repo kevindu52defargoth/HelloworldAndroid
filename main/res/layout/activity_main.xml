@@ -20,7 +20,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
-        android:text="bonjour monde"
+        android:text="Hzllo World!"
         />
     <Button
         android:id="@+id/main_button"
